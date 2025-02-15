@@ -3,6 +3,7 @@ title: "Dan's Rooftop"
 description: |
   Dan's Rooftop
 output_dir: "_site"
+theme: theme.css
 navbar:
   right:
     - text: "Home"

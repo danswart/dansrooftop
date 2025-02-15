@@ -6,14 +6,21 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2025-02-15T08:44:34-06:00"
+      "last_modified": "2025-02-15T10:07:25-06:00"
     },
     {
       "path": "index.html",
+      "title": "Dan Swart, CPA (ret)",
+      "author": [],
+      "contents": "\n\n          \n          \n          Dan's Rooftop\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Dan Swart, CPA (ret)\n            \n            \n              \n                \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            SCUC-ISD Board of Trustees\n            (2024)\n            \n            Hi! 👋 I am a former statistics\n            college professor now working in industry. I love wrangling,\n            analyzing, and visualizing data, and helping others do the\n            same.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Dan Swart, CPA (ret)\n            \n            \n              \n                \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              SCUC-ISD Board of Trustees\n              (2024)\n              \n              Hi! 👋 I am a former\n              statistics college professor now working in industry. I\n              love wrangling, analyzing, and visualizing data, and\n              helping others do the same.\n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2025-02-15T10:13:48-06:00"
+    },
+    {
+      "path": "index2.html",
       "title": "Dan's Rooftop",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2025-02-15T08:44:35-06:00"
+      "last_modified": "2025-02-15T10:07:30-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
