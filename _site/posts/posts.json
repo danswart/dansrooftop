@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Dan's Rooftop",
+    "description": "Welcome to our new blog, Dan's Rooftop. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2025-02-15",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2025-02-15T08:43:17-06:00",
+    "input_file": {}
+  }
+]
