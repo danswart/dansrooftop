@@ -15,7 +15,7 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
+  --title-size:      30px;
   --body-size:       1.0rem;                     /* edited */
   --code-size:       0.9rem;                     /* edited */
   --aside-size:      12px;
@@ -63,7 +63,7 @@ d-appendix {
   --text-color:       #FFFFFF;                   /* edited */
   --text-size:        20px;                      /* edited */
   --hover-color:      #383838;                   /* edited */
-  --bkgd-color:       rgb(249, 83, 85);          /* edited */
+  --bkgd-color:       dodgerblue;          /* edited */
 }
 
 .distill-site-footer {
@@ -77,7 +77,7 @@ d-appendix {
 /*-- Additional custom styles --*/
 
 .posts-list .metadata .publishedDate {
-    color: rgb(249, 83, 85);
+    color: dodgerblue;
 }
 
 d-article p code {

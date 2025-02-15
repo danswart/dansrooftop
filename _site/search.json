@@ -6,22 +6,64 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2025-02-15T10:07:25-06:00"
+      "last_modified": "2025-02-15T13:19:40-06:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-02-15T13:19:40-06:00"
     },
     {
       "path": "index.html",
       "title": "Dan Swart, CPA (ret)",
       "author": [],
-      "contents": "\n\n          \n          \n          Dan's Rooftop\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Dan Swart, CPA (ret)\n            \n            \n              \n                \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            SCUC-ISD Board of Trustees\n            (2024)\n            \n            Hi! 👋 I am a former statistics\n            college professor now working in industry. I love wrangling,\n            analyzing, and visualizing data, and helping others do the\n            same.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Dan Swart, CPA (ret)\n            \n            \n              \n                \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              SCUC-ISD Board of Trustees\n              (2024)\n              \n              Hi! 👋 I am a former\n              statistics college professor now working in industry. I\n              love wrangling, analyzing, and visualizing data, and\n              helping others do the same.\n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2025-02-15T10:13:48-06:00"
+      "contents": "\n\n          \n          \n          DAN'S ROOFTOP\n          \n          \n          Home\n          Blog\n          Simplify Purpose\n          Simplify Policy\n          Simplify Information\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Dan Swart, CPA (ret)\n            \n            \n              \n                \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            SCUC-ISD Board of Trustees\n            (2024)\n            \n            Hi! 👋 I am a former statistics\n            college professor now working in industry. I love wrangling,\n            analyzing, and visualizing data, and helping others do the\n            same.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Dan Swart, CPA (ret)\n            \n            \n              \n                \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              SCUC-ISD Board of Trustees\n              (2024)\n              \n              Hi! 👋 I am a former\n              statistics college professor now working in industry. I\n              love wrangling, analyzing, and visualizing data, and\n              helping others do the same.\n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2025-02-15T13:19:45-06:00"
     },
     {
       "path": "index2.html",
       "title": "Dan's Rooftop",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2025-02-15T10:07:30-06:00"
+      "last_modified": "2025-02-15T13:19:46-06:00"
+    },
+    {
+      "path": "info.html",
+      "title": "Simplify Information",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-02-15T13:19:46-06:00"
+    },
+    {
+      "path": "policy.html",
+      "title": "Simplify Policy",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-02-15T13:19:47-06:00"
+    },
+    {
+      "path": "purpose.html",
+      "title": "Simplify Purpose",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-02-15T13:19:47-06:00"
+    },
+    {
+      "path": "talks.html",
+      "title": "Talks",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-02-15T13:19:48-06:00"
+    },
+    {
+      "path": "workshops.html",
+      "title": "Workshops",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-02-15T13:19:49-06:00"
     }
   ],
-  "collections": ["posts/posts.json"]
+  "collections": ["posts/posts.json", "info/info.json", "policy/policy.json", "purpose/purpose.json", "talks/talks.json", "workshops/workshops.json"]
 }

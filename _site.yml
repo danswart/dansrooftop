@@ -1,5 +1,5 @@
 name: "dansrooftop"
-title: "Dan's Rooftop"
+title: "DAN'S ROOFTOP"
 description: |
   Dan's Rooftop
 output_dir: "_site"
@@ -8,6 +8,14 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Simplify Purpose"
+      href: purpose.html
+    - text: "Simplify Policy"
+      href: policy.html
+    - text: "Simplify Information"
+      href: info.html
     - text: "About"
       href: about.html
 output: distill::distill_article
