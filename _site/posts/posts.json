@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2025-02-15-another-blog-post/",
+    "title": "Here's a great post!  :-)",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Dan Swart",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2025-02-15",
+    "categories": [],
+    "contents": "\n\n\n\nTitle slide with 3 generations of college footballers.Here’s ANOTHER great post!\n\n\n\n",
+    "preview": "posts/2025-02-15-another-blog-post/another-blog-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2025-02-16T05:49:15-06:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2025-02-15-my-second-blog-postthis-one-will-really-be-a-good-one/",
     "title": "My second blog post...this one will REALLY be a good one  :-)",
     "description": "A short description of the post.",
@@ -13,24 +30,7 @@
     "categories": [],
     "contents": "\n\n\n\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": "posts/2025-02-15-my-second-blog-postthis-one-will-really-be-a-good-one/my-second-blog-postthis-one-will-really-be-a-good-one_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2025-02-15T09:11:53-06:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/welcome/",
-    "title": "Welcome to Dan's Rooftop",
-    "description": "Welcome to our new blog, Dan's Rooftop. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Dan Swart",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2025-02-15",
-    "categories": [],
-    "contents": "\nLearn more about creating blogs with Distill at:\nhttps://rstudio.github.io/distill/blog.html\n\n\n\n",
-    "preview": {},
-    "last_modified": "2025-02-15T09:17:26-06:00",
+    "last_modified": "2025-02-16T05:24:01-06:00",
     "input_file": {}
   }
 ]

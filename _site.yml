@@ -4,6 +4,7 @@ description: |
   Dan's Rooftop
 output_dir: "_site"
 theme: theme.css
+# theme: rgirls-theme.css
 navbar:
   right:
     - text: "Home"
@@ -19,3 +20,15 @@ navbar:
     - text: "About"
       href: about.html
 output: distill::distill_article
+collections:
+  posts:
+   categories: true
+   filter:
+    - category: "Blog"
+  articles:
+    output: distill::distill_article
+    categories: true
+    filter:
+      - category: "Simplify Purpose"
+
+

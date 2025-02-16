@@ -1,0 +1,29 @@
+---
+title: "A GREAT article, NOT a blog post"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Dan Swart 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+categories: [Simplify Purpose]
+output: distill::distill_article
+preview: swart_texan.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Let's see where this article winds up on my website?
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

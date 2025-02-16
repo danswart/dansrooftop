@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "path": "purpose/",
+    "title": "A GREAT article, NOT a blog post",
+    "description": "A new article created using the Distill format.",
+    "author": [
+      {
+        "name": "Dan Swart",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2025-02-16",
+    "categories": [
+      "Simplify Purpose"
+    ],
+    "contents": "\nLet’s see where this article winds up on my website?\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": "purpose/swart_texan.jpg",
+    "last_modified": "2025-02-16T04:29:17-06:00",
+    "input_file": {}
+  }
+]
